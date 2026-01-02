@@ -1,29 +1,61 @@
-# Manual-Testing-E-commerce
-## Project Overview
-This project showcases manual testing activities performed on an e-commerce web application to validate core business functionalities and ensure application quality.
+# Amazon Website – Manual Testing Project
 
-## Application Under Test
-E-commerce web application with features such as user registration, login, product search, add to cart, checkout, and order confirmation.
+## 📌 Project Overview
+This project demonstrates **manual testing of an Amazon-like e-commerce website**.  
+The objective is to understand requirements, design test scenarios and test cases, and identify defects based on real-world e-commerce functionality.
 
-## Scope of Testing
+> ⚠️ This project is created **for learning and practice purposes only** and is **not an official Amazon project**.
+
+---
+
+## 🎯 Project Objectives
+- Understand and analyze **SRS requirements**
+- Design **test scenarios and test cases**
+- Perform **manual functional testing**
+- Practice **defect reporting**
+- Gain hands-on experience in **e-commerce domain testing**
+
+---
+
+## 🧩 Modules Covered
+- User Registration
+- Login & Logout
+- Product Search & Filters
+- Product Details Page
+- Add to Cart
+- Wishlist
+- Checkout
+- Payment Methods (UPI, Card, COD)
+- Order Confirmation
+- Order Tracking
+- Cancel & Return Orders
+
+---
+
+## 📄 Documents Included
+- **SRS (Software Requirements Specification)**
+- **Test Scenarios**
+- **Test Cases**
+- **Requirement Traceability Matrix (RTM)**
+- **Bug Report **
+
+---
+
+## 🛠️ Tools & Technologies
+- Manual Testing
+- JIRA (Defect Tracking )
+- Git & GitHub
+- MS Excel / Google Sheets (Test Cases & RTM)
+
+---
+
+## 🧪 Testing Types Performed
 - Functional Testing
+- UI Testing
 - Smoke Testing
 - Regression Testing
-- UI Testing
+- Re-testing
 
-## Test Artifacts
-- Test Plan
-- Test Scenarios
-- Test Cases
-- Bug Reports
-- Requirement Traceability Matrix (RTM)
+---
 
-## Test Approach
-Manual testing was conducted by understanding requirements, preparing test scenarios and test cases, executing test cases, and reporting defects with appropriate severity and priority.
-
-## Tools Used
-- GitHub (for version control and documentation)
-- Web Browser (Chrome)
-## Outcome
-All major user flows were tested, defects were identified and documented, and test coverage was ensured through RTM.
-
+## 📁 Project Structure
