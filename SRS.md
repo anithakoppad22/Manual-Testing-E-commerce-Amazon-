@@ -38,14 +38,6 @@ products online through a secure and user-friendly interface.
 | Registered User | Can place orders and make payments |
 | Admin | Manages products and orders (out of testing scope) |
 =======
-Software Requirements Specification (SRS)
-E-commerce Web Application (Amazon – Manual Testing Project)
-1. Introduction
-
- 1.1 Purpose
- The purpose of this document is to describe the functional and non-functional requirements of an E-commerce Web Application (Amazon).
- This SRS is used as a reference for manual testing, test case creation, and defect identification.
-
 1.2 Scope
 The application allows users to:
 Browse products
@@ -56,7 +48,6 @@ Make payments
 Track orders
 
 ---
-
 
 ### 2.3 Operating Environment
 - Web Browsers: Chrome, Firefox, Edge
