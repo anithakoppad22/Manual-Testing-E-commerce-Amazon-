@@ -1,0 +1,11 @@
+## Requirements Traceability Matrix (RTM)
+
+The Requirements Traceability Matrix (RTM) is maintained to ensure
+all functional requirements defined in the SRS are covered by
+test scenarios and test cases.
+
+The RTM maps:
+- Requirement ID → Test Scenario ID → Test Case ID
+- Tracks execution status and coverage
+
+
