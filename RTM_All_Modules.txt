@@ -1,11 +1,77 @@
-## Requirements Traceability Matrix (RTM)
+# Requirements Traceability Matrix (RTM) – Amazon-like E-commerce Application
 
-The Requirements Traceability Matrix (RTM) is maintained to ensure
-all functional requirements defined in the SRS are covered by
-test scenarios and test cases.
+This document provides the **Requirements Traceability Matrix (RTM)** for the Manual Testing of an Amazon-like e-commerce web application.  
+The RTM ensures that all **functional and non-functional requirements** are mapped to **test scenarios and test cases** for complete coverage.
 
-The RTM maps:
-- Requirement ID → Test Scenario ID → Test Case ID
-- Tracks execution status and coverage
+---
 
+## 1. Overview
+
+- **Purpose:** To track and ensure that all requirements from the SRS are covered by test scenarios and test cases.
+- **Modules Covered:**
+  1. URL / Launch
+  2. User Registration / Login
+  3. Product Search & Browse
+  4. Product Details Page
+  5. Add to Cart
+  6. Checkout & Address Management
+  7. Payment
+  8. Order Confirmation
+  9. Order Tracking & Cancellation
+  10. Non-Functional Requirements (Performance, Usability, Security, Compatibility)
+
+---
+
+## 2. Structure of RTM
+
+The RTM includes the following columns:
+
+| Column | Description |
+|--------|-------------|
+| Requirement ID | Unique ID of functional or non-functional requirement |
+| Requirement Description | Detailed description of the requirement from SRS |
+| Module | Functional module or Non-Functional category |
+| Test Scenario ID (TS ID) | Identifier of test scenario linked to requirement |
+| Test Case ID (TC ID) | Identifier of test case linked to requirement |
+| Status | Execution status (Not Executed / Pass / Fail) |
+| Remarks | Additional notes or observations |
+
+---
+
+## 3. Purpose of RTM
+
+1. Ensures **full coverage of requirements** through test scenarios and test cases.
+2. Provides **traceability** from requirements → test scenarios → test cases.
+3. Helps **identify gaps** in testing and ensures nothing is missed.
+4. Serves as a **reference for manual testing execution** and reporting.
+
+---
+
+## 4. How to Use This RTM
+
+1. Open the **`RTM_All_Modules.xlsx`** file in Excel.
+2. Each row represents a mapping of a requirement to its test scenario(s) and test case(s).
+3. The **Status** column should be updated as test cases are executed.
+4. Use the **Module** column to filter or focus on specific modules during testing.
+
+---
+
+## 5. Key Notes
+
+- All **functional and non-functional requirements** are included.
+- One sheet contains **all modules** to maintain a single source of truth.
+- Test cases can be executed and updated in the RTM to reflect **current testing status**.
+- This RTM is a professional reference for **manual testing and interview discussion**.
+
+---
+
+## 6. Contact / Reference
+
+- Author: [Your Name]  
+- GitHub Repo: [Manual Testing – E-commerce Amazon](https://github.com/anithakoppad22/Manual-Testing-E-commerce-Amazon)  
+- SRS Document: `SRS.md`  
+- Test Scenarios Document: `Test-Scenarios.md`  
+- RTM Document: `RTM_All_Modules.xlsx`
+
+---
 
